@@ -35,7 +35,7 @@ if [ -d ./secrets ]; then
 
     # Test if we have ./secrets/world/serverconfig/
     if [ -d ./secrets/world/serverconfig ]; then
-        echo "Moving ./secrets/world/serverconfig"
-        cp -r ./secrets/world/serverconfig ../1.20.4/world/
+        echo "Moving ./secrets/serverconfig"
+        cp -r ./secrets/serverconfig ../1.20.4/world/
     fi
 fi
