@@ -1,0 +1,6 @@
+
+#General settings
+[general]
+	#List of PlaySound events to mute
+	muteList = ["entity.wither.spawn", "entity.wither.death", "entity.ender_dragon.death"]
+

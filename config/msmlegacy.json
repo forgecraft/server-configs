@@ -1,0 +1,427 @@
+{
+  "relic_events": {
+    "aqueous_blade": {
+      "drop_chance": 1.0,
+      "bonus_armor": 2.0,
+      "bonus_damage": 5.0,
+      "bonus_health": 20.0,
+      "event_chance": 0.0025,
+      "enabled": true
+    },
+    "blaze_sword": {
+      "chance_normal": 0.005,
+      "chance_first_time": 0.01,
+      "enabled": true
+    },
+    "infinity_blade": {
+      "bonus_armor": 4.0,
+      "bonus_armor_toughness": 2.0,
+      "bonus_damage": 2.0,
+      "bonus_health": 30.0,
+      "custom_armor_enabled": true,
+      "custom_armor_drop_chance": 0.0,
+      "drop_chance": 1.0,
+      "event_chance": 0.001,
+      "enabled": true
+    },
+    "master_sword": {
+      "custom_shield_enabled": true,
+      "custom_shield_drop_chance": 0.25,
+      "drop_chance": 1.0,
+      "replace_with_wither_skeleton": true,
+      "event_chance": 0.001,
+      "enabled": true
+    },
+    "key_blade": {
+      "chance_normal": 0.15,
+      "chance_first_time": 1.0,
+      "enabled": true
+    },
+    "molten_blade": {
+      "drop_chance": 1.0,
+      "event_chance": 0.005,
+      "enabled": true
+    },
+    "pie_cutter": {
+      "emerald_cost_min": 13,
+      "emerald_cost_max": 22,
+      "max_uses": 1,
+      "event_chance": 0.15,
+      "enabled": true
+    }
+  },
+  "sword_stats": {
+    "dawn_star": {
+      "harvest_level": 3,
+      "durability": 1280,
+      "dig_speed": 1.0,
+      "attack_damage": 6.0,
+      "enchantability": 22,
+      "swing_speed_penalty": -2.3
+    },
+    "vampiric_blade": {
+      "harvest_level": 3,
+      "durability": 812,
+      "dig_speed": 1.0,
+      "attack_damage": 6.0,
+      "enchantability": 12,
+      "swing_speed_penalty": -2.2
+    },
+    "gladiolus": {
+      "harvest_level": 3,
+      "durability": 650,
+      "dig_speed": 1.0,
+      "attack_damage": 6.0,
+      "enchantability": 14,
+      "swing_speed_penalty": -2.2
+    },
+    "draconic_blade": {
+      "harvest_level": 3,
+      "durability": 1280,
+      "dig_speed": 1.0,
+      "attack_damage": 7.0,
+      "enchantability": 16,
+      "swing_speed_penalty": -2.4
+    },
+    "eye_end_blade": {
+      "harvest_level": 3,
+      "durability": 1580,
+      "dig_speed": 1.0,
+      "attack_damage": 7.0,
+      "enchantability": 22,
+      "swing_speed_penalty": -2.4
+    },
+    "crystaline_blade": {
+      "harvest_level": 3,
+      "durability": 512,
+      "dig_speed": 1.0,
+      "attack_damage": 5.0,
+      "enchantability": 28,
+      "swing_speed_penalty": -2.2
+    },
+    "glacial_blade": {
+      "harvest_level": 3,
+      "durability": 750,
+      "dig_speed": 1.0,
+      "attack_damage": 6.0,
+      "enchantability": 15,
+      "swing_speed_penalty": -2.5
+    },
+    "aethers_guard": {
+      "harvest_level": 3,
+      "durability": 1800,
+      "dig_speed": 1.0,
+      "attack_damage": 9.0,
+      "enchantability": 22,
+      "swing_speed_penalty": -2.4
+    },
+    "wither_bane": {
+      "harvest_level": 3,
+      "durability": 1800,
+      "dig_speed": 1.0,
+      "attack_damage": 9.0,
+      "enchantability": 18,
+      "swing_speed_penalty": -2.4
+    },
+    "relic_aqueous_blade": {
+      "harvest_level": 3,
+      "durability": 500,
+      "dig_speed": 1.0,
+      "attack_damage": 3.0,
+      "enchantability": 14,
+      "swing_speed_penalty": -2.4
+    },
+    "relic_molten_blade": {
+      "harvest_level": 3,
+      "durability": 500,
+      "dig_speed": 1.0,
+      "attack_damage": 3.0,
+      "enchantability": 14,
+      "swing_speed_penalty": -2.4
+    },
+    "relic_infinity_blade": {
+      "harvest_level": 3,
+      "durability": 650,
+      "dig_speed": 1.0,
+      "attack_damage": 3.0,
+      "enchantability": 14,
+      "swing_speed_penalty": -2.4
+    },
+    "relic_key_blade": {
+      "harvest_level": 3,
+      "durability": 400,
+      "dig_speed": 1.0,
+      "attack_damage": 4.0,
+      "enchantability": 14,
+      "swing_speed_penalty": -2.4
+    },
+    "relic_master_sword": {
+      "harvest_level": 3,
+      "durability": 700,
+      "dig_speed": 1.0,
+      "attack_damage": 5.0,
+      "enchantability": 14,
+      "swing_speed_penalty": -2.4
+    },
+    "relic_pie_cutter": {
+      "harvest_level": 3,
+      "durability": 150,
+      "dig_speed": 1.0,
+      "attack_damage": 2.0,
+      "enchantability": 14,
+      "swing_speed_penalty": -2.4
+    },
+    "relic_blaze_sword": {
+      "harvest_level": 3,
+      "durability": 350,
+      "dig_speed": 1.0,
+      "attack_damage": 3.0,
+      "enchantability": 14,
+      "swing_speed_penalty": -2.4
+    },
+    "relic_adminium_ark": {
+      "harvest_level": 3,
+      "durability": 1024,
+      "dig_speed": 1.0,
+      "attack_damage": 8.0,
+      "enchantability": 14,
+      "swing_speed_penalty": -2.4
+    }
+  },
+  "enchantments": {
+    "ignite": {
+      "fire_damage_per_level": 0.5,
+      "damage_chance": 1.0,
+      "burn_time_per_level": 2,
+      "can_villagers_trade": false,
+      "is_generally_available": true,
+      "level_min": 1,
+      "level_max": 3
+    },
+    "sparks": {
+      "effect_range_per_level": 1.5,
+      "burn_amount_per_level": 2,
+      "knockback_amount_per_level": 0.4,
+      "can_villagers_trade": false,
+      "is_generally_available": true,
+      "level_min": 1,
+      "level_max": 1
+    },
+    "feast": {
+      "repair_chance_per_level": 0.04,
+      "repair_amount_per_level": 12,
+      "can_villagers_trade": false,
+      "is_generally_available": true,
+      "level_min": 1,
+      "level_max": 3
+    },
+    "vitality": {
+      "durability_cost_percent": 0.2,
+      "absorption_effect": {
+        "enabled": true,
+        "chance_per_level": 1.0,
+        "amplifier_per_level": 0,
+        "duration_per_level": 600,
+        "effect_id": "minecraft:absorption"
+      },
+      "resistance_effect": {
+        "enabled": true,
+        "chance_per_level": 1.0,
+        "amplifier_per_level": 0,
+        "duration_per_level": 600,
+        "effect_id": "minecraft:resistance"
+      },
+      "regeneration_effect": {
+        "enabled": true,
+        "chance_per_level": 1.0,
+        "amplifier_per_level": 0,
+        "duration_per_level": 600,
+        "effect_id": "minecraft:regeneration"
+      },
+      "fire_resistance_effect": {
+        "enabled": true,
+        "chance_per_level": 1.0,
+        "amplifier_per_level": 0,
+        "duration_per_level": 600,
+        "effect_id": "minecraft:fire_resistance"
+      },
+      "heal_amount_per_level": 10,
+      "can_villagers_trade": false,
+      "is_generally_available": true,
+      "level_min": 1,
+      "level_max": 1
+    },
+    "venomous_aspect": {
+      "mob_effect": {
+        "enabled": true,
+        "chance_per_level": 0.3,
+        "amplifier_per_level": 1,
+        "duration_per_level": 80,
+        "effect_id": "minecraft:poison"
+      },
+      "can_villagers_trade": false,
+      "is_generally_available": true,
+      "level_min": 1,
+      "level_max": 3
+    },
+    "absorb": {
+      "mob_effect": {
+        "enabled": true,
+        "chance_per_level": 0.06,
+        "amplifier_per_level": 2,
+        "duration_per_level": 80,
+        "effect_id": "minecraft:saturation"
+      },
+      "can_villagers_trade": false,
+      "is_generally_available": true,
+      "level_min": 1,
+      "level_max": 1
+    },
+    "keen_edge": {
+      "damage_per_level": 1.5,
+      "can_villagers_trade": false,
+      "is_generally_available": true,
+      "level_min": 1,
+      "level_max": 3
+    },
+    "scorn": {
+      "effect_range_per_level": 2.0,
+      "can_villagers_trade": false,
+      "is_generally_available": true,
+      "level_min": 1,
+      "level_max": 1
+    },
+    "ender_pulse": {
+      "distance": [
+        32,
+        64,
+        96
+      ],
+      "cooldown_time": 600,
+      "can_villagers_trade": false,
+      "is_generally_available": true,
+      "level_min": 1,
+      "level_max": 3
+    },
+    "ender_aura": {
+      "chance": 0.4,
+      "warp_range_per_level": 32,
+      "can_villagers_trade": false,
+      "is_generally_available": true,
+      "level_min": 1,
+      "level_max": 1
+    },
+    "greed": {
+      "chance_per_level": 0.2,
+      "min_exp_per_level": 1,
+      "max_exp_per_level": 1,
+      "can_villagers_trade": false,
+      "is_generally_available": true,
+      "level_min": 1,
+      "level_max": 3
+    },
+    "wisdom": {
+      "damage": 1.0,
+      "damage_cap": 10.0,
+      "threshold": 10,
+      "can_villagers_trade": false,
+      "is_generally_available": true,
+      "level_min": 1,
+      "level_max": 1
+    },
+    "frozen_aspect": {
+      "slowness_effect": {
+        "enabled": true,
+        "chance_per_level": 1.0,
+        "amplifier_per_level": 1,
+        "duration_per_level": 40,
+        "effect_id": "minecraft:slowness"
+      },
+      "damage_chance": 0.25,
+      "frost_damage": 1.0,
+      "can_villagers_trade": false,
+      "is_generally_available": true,
+      "level_min": 1,
+      "level_max": 3
+    },
+    "frost_wave": {
+      "slowness_effect": {
+        "enabled": true,
+        "chance_per_level": 1.0,
+        "amplifier_per_level": 1,
+        "duration_per_level": 40,
+        "effect_id": "minecraft:slowness"
+      },
+      "damage_chance": 0.25,
+      "frost_damage": 1.0,
+      "range": 1.0,
+      "can_villagers_trade": false,
+      "is_generally_available": true,
+      "level_min": 1,
+      "level_max": 1
+    },
+    "ascension": {
+      "force_per_level": 0.35,
+      "chance_per_level": 1.0,
+      "can_villagers_trade": false,
+      "is_generally_available": true,
+      "level_min": 1,
+      "level_max": 3
+    },
+    "skys_grace": {
+      "fall_effect": {
+        "enabled": true,
+        "chance_per_level": 1.0,
+        "amplifier_per_level": 0,
+        "duration_per_level": 35,
+        "effect_id": "minecraft:slow_falling"
+      },
+      "reset_fall_distance": true,
+      "can_villagers_trade": false,
+      "is_generally_available": true,
+      "level_min": 1,
+      "level_max": 1
+    },
+    "decay": {
+      "wither": {
+        "enabled": true,
+        "chance_per_level": 1.0,
+        "amplifier_per_level": 0,
+        "duration_per_level": 40,
+        "effect_id": "minecraft:wither"
+      },
+      "hunger": {
+        "enabled": true,
+        "chance_per_level": 1.0,
+        "amplifier_per_level": 1,
+        "duration_per_level": 40,
+        "effect_id": "minecraft:hunger"
+      },
+      "can_villagers_trade": false,
+      "is_generally_available": true,
+      "level_min": 1,
+      "level_max": 3
+    },
+    "consuming_shadows": {
+      "wither": {
+        "enabled": true,
+        "chance_per_level": 1.0,
+        "amplifier_per_level": 0,
+        "duration_per_level": 80,
+        "effect_id": "minecraft:wither"
+      },
+      "blindness": {
+        "enabled": true,
+        "chance_per_level": 1.0,
+        "amplifier_per_level": 1,
+        "duration_per_level": 80,
+        "effect_id": "minecraft:blindness"
+      },
+      "range": 1.5,
+      "can_villagers_trade": false,
+      "is_generally_available": true,
+      "level_min": 1,
+      "level_max": 1
+    }
+  }
+}

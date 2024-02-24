@@ -1,0 +1,4 @@
+#Max number of homes per player
+#Range: 0 ~ 255
+playerMaxHomes = 3
+

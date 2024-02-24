@@ -1,0 +1,17 @@
+{
+  "balance": {
+    "allowSpawnerAbsorption": true,
+    "allowFakePlayers": false,
+    "absorptionBonus": 200,
+    "allowBossSpawns": false,
+    "countCageBornForShard": false,
+    "requireOwnerOnline": false,
+    "requireRedstoneSignal": false,
+    "allowShardCombination": true,
+    "spawnCap": 32,
+    "dropExperience": false
+  },
+  "client": {
+    "displayDurabilityBar": true
+  }
+}

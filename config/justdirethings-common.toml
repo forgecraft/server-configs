@@ -1,0 +1,19 @@
+
+#Fuel Canister
+[fuel_canister]
+	#The amount of ticks 'consumed' per operation in the furnace. Lower is more efficient fuel use.
+	#Range: > 1
+	fuel_canister_minimum_ticks_consumed = 50
+	#The maximum amount of fuel (in ticks) permitted in the fuel canister.
+	#Range: > 100
+	fuel_canister_maximum_fuel = 2000000
+
+#Pocket Generator
+[pocket_generator]
+	#The amount of Forge Energy created per burn tick of fuel. Coal has 1600 burn ticks. Sticks have 100 burn ticks.
+	#Range: 1.0 ~ 2.147483647E9
+	pocket_generator_fe_per_fuel_tick = 12.5
+	#The multiplier for the burn speed, making the generator run faster. Coal is 1600 ticks to burn, if you set this to 10, it will burn in 160 ticks
+	#Range: 1 ~ 1000
+	pocket_generator_burn_speed_multiplier = 10
+

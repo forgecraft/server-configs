@@ -1,0 +1,48 @@
+
+#Convenience Recipes
+[recipes]
+	#Enable Smelting rotton flesh into leather
+	smeltFleshIntoLeather = true
+	#Enable crafting sticks from logs
+	craftLogsToSticks = true
+	#Enable crafting chests from logs
+	craftLogsToChests = true
+
+#Double door fix
+[doubledoor]
+	#Double doors open at same time
+	fixDoubleDoors = true
+	#Force double door fix even if quark is loaded
+	forceFixDoubleDoors = false
+
+#Ender Inhibitor
+[enderinhibitor]
+	#Enable the Ender Inhibitor
+	enderInhibitor = true
+	#Prevent Ender teleportation inside this range.
+	#Range: 1 ~ 64
+	enderInhibitorRange = 16
+	#Does this apply to players?
+	enderInhibitorPlayers = false
+
+#Exoskeleton
+[exoskeleton]
+	#Enable the Exoskeleton Leggings
+	#Absorbs fall damage.
+	exoleggings = true
+
+#Online Detector
+[onlinedetector]
+	#Enable the Online Detector
+	#Emits redstone when the placing player is online
+	online_detector = true
+
+#Commands
+[commands]
+	#Enable teleporting to the last slept in bed.
+	bed = true
+	#Enable teleporting to the spawn point.
+	spawn = true
+	#Enable home commands
+	home = true
+
