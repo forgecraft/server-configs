@@ -33,8 +33,8 @@ if [ -d ./secrets ]; then
         cp -r ./secrets/config ../1.20.4/
     fi
 
-    # Test if we have ./secrets/world/serverconfig/
-    if [ -d ./secrets/world/serverconfig ]; then
+    # Test if we have ./secrets/serverconfig/
+    if [ -d ./secrets/serverconfig ]; then
         echo "Moving ./secrets/serverconfig"
         cp -r ./secrets/serverconfig ../1.20.4/world/
     fi
