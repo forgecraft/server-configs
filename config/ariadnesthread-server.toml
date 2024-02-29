@@ -1,0 +1,20 @@
+
+[Server]
+	# The time in ticks to wait between checking location.
+	#Range: > 1
+	"Check interval" = 20
+	# The minimum distance between points.
+	# If you haven't moved more than this distance from your last point, it isn't saved.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	"Minimum Distance" = 5.0
+
+	[Server.Limits]
+		# The maximum number of locations to store. Set to 0 to disable limit.
+		# Enabling advanced tooltips will show how many locations are stored.
+		#Range: > 0
+		"Max Locations" = 5120
+		# The maximum size of the NBT data for the thread item, in bits. Set to 0 to disable limit.
+		# Enabling advanced tooltips will show the current size.
+		#Range: > 0
+		"Max NBT Size" = 65536
+

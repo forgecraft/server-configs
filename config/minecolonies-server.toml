@@ -1,0 +1,174 @@
+
+#minecolonies.config.gameplay.comment
+[gameplay]
+	#minecolonies.config.initialcitizenamount.comment [Default: 4, min: 1, max: 10]
+	#Range: 1 ~ 10
+	initialcitizenamount = 4
+	#minecolonies.config.allowinfinitesupplychests.comment [Default: false]
+	allowinfinitesupplychests = false
+	#minecolonies.config.allowinfinitecolonies.comment [Default: false]
+	allowinfinitecolonies = false
+	#minecolonies.config.allowotherdimcolonies.comment [Default: true]
+	allowotherdimcolonies = true
+	#minecolonies.config.maxcitizenpercolony.comment [Default: 250, min: 100, max: 500]
+	#Range: 100 ~ 500
+	maxcitizenpercolony = 250
+	#minecolonies.config.enableindevelopmentfeatures.comment [Default: false]
+	enableindevelopmentfeatures = false
+	#minecolonies.config.alwaysrendernametag.comment [Default: true]
+	alwaysrendernametag = true
+	#minecolonies.config.workersalwaysworkinrain.comment [Default: false]
+	workersalwaysworkinrain = false
+	#minecolonies.config.holidayfeatures.comment [Default: true]
+	holidayfeatures = true
+	#minecolonies.config.luckyblockchance.comment [Default: 1, min: 0, max: 100]
+	#Range: 0 ~ 100
+	luckyblockchance = 1
+	#minecolonies.config.minthleveltoteleport.comment [Default: 3, min: 0, max: 5]
+	#Range: 0 ~ 5
+	minthleveltoteleport = 3
+	#minecolonies.config.foodmodifier.comment [Default: 1.0, min: 0.1, max: 100.0]
+	#Range: 0.1 ~ 100.0
+	foodmodifier = 1.0
+	#minecolonies.config.diseasemodifier.comment [Default: 5, min: 1, max: 100]
+	#Range: 1 ~ 100
+	diseasemodifier = 5
+	#minecolonies.config.forceloadcolony.comment [Default: true]
+	forceloadcolony = true
+	#minecolonies.config.loadtime.comment [Default: 10, min: 1, max: 1440]
+	#Range: 1 ~ 1440
+	loadtime = 10
+	#minecolonies.config.colonyloadstrictness.comment [Default: 3, min: 1, max: 15]
+	#Range: 1 ~ 15
+	colonyloadstrictness = 3
+	#minecolonies.config.maxtreesize.comment [Default: 400, min: 1, max: 1000]
+	#Range: 1 ~ 1000
+	maxtreesize = 400
+	#minecolonies.config.nosupplyplacementrestrictions.comment [Default: false]
+	nosupplyplacementrestrictions = false
+	#minecolonies.config.skyraiders.comment [Default: false]
+	skyraiders = false
+
+#minecolonies.config.research.comment
+[research]
+	#minecolonies.config.researchcreativecompletion.comment [Default: true]
+	researchcreativecompletion = true
+	#minecolonies.config.researchdebuglog.comment [Default: false]
+	researchdebuglog = false
+	#minecolonies.config.researchresetcost.comment
+	researchresetcost = ["minecolonies:ancienttome:1"]
+
+#minecolonies.config.commands.comment
+[commands]
+	#minecolonies.config.canplayerusertpcommand.comment [Default: false]
+	canplayerusertpcommand = false
+	#minecolonies.config.canplayerusecolonytpcommand.comment [Default: false]
+	canplayerusecolonytpcommand = false
+	#minecolonies.config.canplayeruseallytownhallteleport.comment [Default: true]
+	canplayeruseallytownhallteleport = true
+	#minecolonies.config.canplayerusehometpcommand.comment [Default: false]
+	canplayerusehometpcommand = false
+	#minecolonies.config.canplayeruseshowcolonyinfocommand.comment [Default: true]
+	canplayeruseshowcolonyinfocommand = true
+	#minecolonies.config.canplayerusekillcitizenscommand.comment [Default: false]
+	canplayerusekillcitizenscommand = false
+	#minecolonies.config.canplayeruseaddofficercommand.comment [Default: true]
+	canplayeruseaddofficercommand = true
+	#minecolonies.config.canplayerusedeletecolonycommand.comment [Default: false]
+	canplayerusedeletecolonycommand = false
+	#minecolonies.config.canplayeruseresetcommand.comment [Default: false]
+	canplayeruseresetcommand = false
+
+#minecolonies.config.claims.comment
+[claims]
+	#minecolonies.config.maxcolonysize.comment [Default: 20, min: 1, max: 250]
+	#Range: 1 ~ 250
+	maxColonySize = 20
+	#minecolonies.config.mincolonydistance.comment [Default: 8, min: 1, max: 200]
+	#Range: 1 ~ 200
+	minColonyDistance = 8
+	#minecolonies.config.initialcolonysize.comment [Default: 4, min: 1, max: 15]
+	#Range: 1 ~ 15
+	initialColonySize = 4
+	#minecolonies.config.maxdistancefromworldspawn.comment [Default: 30000, min: 1000, max: 2147483647]
+	#Range: > 1000
+	maxdistancefromworldspawn = 30000
+	#minecolonies.config.mindistancefromworldspawn.comment [Default: 0, min: 0, max: 1000]
+	#Range: 0 ~ 1000
+	mindistancefromworldspawn = 0
+
+#minecolonies.config.combat.comment
+[combat]
+	#minecolonies.config.dobarbariansspawn.comment [Default: true]
+	dobarbariansspawn = true
+	#minecolonies.config.barbarianhordedifficulty.comment [Default: 5, min: 0, max: 10]
+	#Range: 0 ~ 10
+	barbarianhordedifficulty = 5
+	#minecolonies.config.maxbarbariansize.comment [Default: 80, min: 6, max: 400]
+	#Range: 6 ~ 400
+	maxBarbarianSize = 80
+	#minecolonies.config.dobarbariansbreakthroughwalls.comment [Default: true]
+	dobarbariansbreakthroughwalls = true
+	#minecolonies.config.averagenumberofnightsbetweenraids.comment [Default: 14, min: 1, max: 50]
+	#Range: 1 ~ 50
+	averagenumberofnightsbetweenraids = 14
+	#minecolonies.config.minimumnumberofnightsbetweenraids.comment [Default: 10, min: 1, max: 30]
+	#Range: 1 ~ 30
+	minimumnumberofnightsbetweenraids = 10
+	#minecolonies.config.mobattackcitizens.comment [Default: true]
+	mobattackcitizens = true
+	#minecolonies.config.shouldraiderbreakdoors.comment [Default: true]
+	shouldraiderbreakdoors = true
+	#minecolonies.config.guarddamagemultiplier.comment [Default: 1.0, min: 0.1, max: 15.0]
+	#Range: 0.1 ~ 15.0
+	guardDamageMultiplier = 1.0
+	#minecolonies.config.guardhealthmult.comment [Default: 1.0, min: 0.1, max: 5.0]
+	#Range: 0.1 ~ 5.0
+	guardhealthmult = 1.0
+	#minecolonies.config.pvp_mode.comment [Default: false]
+	pvp_mode = false
+
+#minecolonies.config.permissions.comment
+[permissions]
+	#minecolonies.config.enablecolonyprotection.comment [Default: true]
+	enablecolonyprotection = true
+	#minecolonies.config.turnoffexplosionsincolonies.comment [Default: DAMAGE_ENTITIES, values: DAMAGE_NOTHING, DAMAGE_PLAYERS, DAMAGE_ENTITIES, DAMAGE_EVERYTHING]
+	#Allowed Values: DAMAGE_NOTHING, DAMAGE_PLAYERS, DAMAGE_ENTITIES, DAMAGE_EVERYTHING
+	turnoffexplosionsincolonies = "DAMAGE_ENTITIES"
+	#minecolonies.config.freetointeractblocks.comment
+	freetointeractblocks = ["dirt", "0 0 0"]
+
+#minecolonies.config.compatibility.comment
+[compatibility]
+	#minecolonies.config.configliststudyitems.comment
+	configliststudyitems = ["minecraft:paper;400;100", "minecraft:book;600;10"]
+	#minecolonies.config.configlistrecruitmentitems.comment
+	configlistrecruitmentitems = ["minecraft:hay_block;3", "minecraft:book;2", "minecraft:enchanted_book;9", "minecraft:diamond;9", "minecraft:emerald;8", "minecraft:baked_potato;1", "minecraft:gold_ingot;2", "minecraft:redstone;2", "minecraft:lapis_lazuli;2", "minecraft:cake;11", "minecraft:sunflower;5", "minecraft:honeycomb;6", "minecraft:quartz;3"]
+	#minecolonies.config.luckyores.comment
+	luckyores = ["minecraft:coal_ore!64", "minecraft:copper_ore!48", "minecraft:iron_ore!32", "minecraft:gold_ore!16", "minecraft:redstone_ore!8", "minecraft:lapis_ore!4", "minecraft:diamond_ore!2", "minecraft:emerald_ore!1"]
+	#minecolonies.config.diseases.comment
+	diseases = ["Influenza,100,minecraft:carrot,minecraft:potato", "Measles,10,minecraft:dandelion,minecraft:kelp,minecraft:poppy", "Smallpox,1,minecraft:honey_bottle,minecraft:golden_apple"]
+	#minecolonies.config.auditcraftingtags.comment [Default: false]
+	auditcraftingtags = false
+	#minecolonies.config.debuginventories.comment [Default: false]
+	debuginventories = false
+	#minecolonies.config.blueprintbuildmode.comment [Default: false]
+	blueprintbuildmode = false
+
+#minecolonies.config.pathfinding.comment
+[pathfinding]
+	#minecolonies.config.pathfindingdebugverbosity.comment [Default: 0, min: 0, max: 10]
+	#Range: 0 ~ 10
+	pathfindingdebugverbosity = 0
+	#minecolonies.config.minimumrailstopath.comment [Default: 8, min: 5, max: 100]
+	#Range: 5 ~ 100
+	minimumrailstopath = 8
+	#minecolonies.config.pathfindingmaxthreadcount.comment [Default: 2, min: 1, max: 10]
+	#Range: 1 ~ 10
+	pathfindingmaxthreadcount = 2
+
+#minecolonies.config.requestsystem.comment
+[requestSystem]
+	#minecolonies.config.creativeresolve.comment [Default: false]
+	creativeresolve = false
+

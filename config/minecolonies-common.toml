@@ -1,0 +1,11 @@
+
+#minecolonies.config.gameplay.comment
+[gameplay]
+	#minecolonies.config.generatesupplyloot.comment [Default: true]
+	generatesupplyloot = true
+
+#minecolonies.config.requestsystem.comment
+[requestsystem]
+	#minecolonies.config.enabledebuglogging.comment [Default: false]
+	enabledebuglogging = false
+

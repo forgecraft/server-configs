@@ -1,0 +1,12 @@
+
+#Settings for slime merging
+[slimes]
+	#If enabled, slimes will have new AI rules to feel attracted to other slimes, and if 4 slimes of the same size are nearby they will merge into a slime of higher size.
+	merge = true
+	#The maximum size the slimes can achieve via merging.
+	#Range: 1 ~ 127
+	maxSize = 8
+	#The minimum number of ticks the entity needs to have existed for before it can start looking for merging mates.
+	#Range: > 0
+	minAge = 200
+
