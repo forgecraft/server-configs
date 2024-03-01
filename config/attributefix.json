@@ -55,6 +55,17 @@
         "value": 512
       }
     },
+    "shrink:shrink_scale": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10,
+        "value": 10
+      }
+    },
     "neoforge:nametag_distance": {
       "enabled": false,
       "min": {
@@ -86,6 +97,17 @@
       "max": {
         "default": 1024,
         "value": 1000000
+      }
+    },
+    "xycraft_machines:hover_flight": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
       }
     },
     "minecraft:generic.attack_speed": {
