@@ -1,0 +1,18 @@
+#Base Golem Health
+#Range: 0.5 ~ 3.4028234663852886E38
+health = 8.0
+#Glistering Melon Slice Damage Amplification
+#Range: 1.0 ~ 3.4028234663852886E38
+damage = 1.5
+#Enables the ability to place Blocks onto a Melon Golem's head
+hats = true
+#If disabled, shearing a Melon Golem will destroy the Block on its head.
+shear = true
+#If enabled, Melon Golems will hunt for nearby melon slices to replenish health
+eats = true
+#The amount health a Melon Golem will gain when consuming a melon slice
+#Range: 0.5 ~ 3.4028234663852886E38
+heal = 1.0
+#The item used in each hand to spawn a melon golem. Format as `namepsace:name`
+stabby = "minecraft:stick"
+
