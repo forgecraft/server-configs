@@ -16,7 +16,7 @@ requirements:
   durabilityDamage: 1
   enabled: true
   equipmentRequirement: {}
-  heldItemRequirement: []
+  heldItemRequirement: ["#minecraft:hoe"]
   requiredEnchantment: ''
   requiredItemTakesDamage: false
 sugarcaneMultiplier: 4
