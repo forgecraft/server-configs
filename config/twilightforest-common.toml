@@ -84,6 +84,10 @@ multiplayerFightAdjuster = "MORE_LOOT_AND_HEALTH"
 	#It is highly recommended to keep the table enabled as the mod has special uncrafting exclusive recipes, but the option remains for people that dont want the table to be functional at all.
 	#If you are looking to just prevent normal crafting recipes from being reversed, consider using the 'disableUncrafting' option instead.
 	disableUncraftingTable = false
+	#If true, the uncrafting table will will no longer allow you to switch between ingredients if a recipe uses a tag for crafting.
+	#This will remove the functionality for ALL RECIPES!
+	#If you want to prevent certain ingredients from showing up in the first place, use the "twilightforest:banned_uncrafting_ingredients" tag.
+	disableIngredientSwitching = false
 
 #Settings for all things related to the magic trees.
 ["Magic Trees"]

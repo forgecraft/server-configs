@@ -1,0 +1,7 @@
+#The path where the JSON file containing the mod list will be written to
+output_path = "modlist.json"
+#A list of mod IDs to be hidden from the mod list
+hidden_mod_ids = ["minecraft", "neoforge", "modlistexporter"]
+#Whether to replace the mod list file atomically (may not be supported on all systems)
+atomic_move = true
+
