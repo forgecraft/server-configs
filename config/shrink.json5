@@ -6,5 +6,5 @@
 	// Shrink Max Size
 	"maxSize": 10.0,
 	// Shrink Min Size
-	"minSize": 0.21
+	"minSize": 0.20
 }
