@@ -5,4 +5,6 @@
 	containerBlacklist = []
 	#Slot type blacklist
 	slotBlacklist = []
+	#Enable debug logging
+	debug = false
 

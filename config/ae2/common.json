@@ -28,7 +28,9 @@
     "disassemblyCrafting_comment": "Enable shift-clicking with the crafting units in hand to disassemble them.",
     "disassemblyCrafting": true,
     "growthAccelerator_comment": "Number of ticks between two crystal growth accelerator ticks",
-    "growthAccelerator": 10
+    "growthAccelerator": 10,
+    "annihilationPlaneSkyDustGeneration_comment": "If enabled, an annihilation placed face up at the maximum world height will generate sky stone passively.",
+    "annihilationPlaneSkyDustGeneration": true
   },
   "spatialio": {
     "spatialPowerMultiplier": 1250.0,
