@@ -1,5 +1,6 @@
 {
   "oreMultiplier": 1,
+  "ignoreAirChance": true,
   "ores": [
     {
       "ore_size": 5,
