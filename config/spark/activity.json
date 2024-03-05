@@ -4,6 +4,18 @@
       "type": "other",
       "name": "Console"
     },
+    "time": 1709667945325,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/NCdy4p96MX"
+    }
+  },
+  {
+    "user": {
+      "type": "other",
+      "name": "Console"
+    },
     "time": 1709485190681,
     "type": "Profiler",
     "data": {
