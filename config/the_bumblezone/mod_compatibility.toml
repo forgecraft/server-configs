@@ -264,7 +264,5 @@
 		#
 		# Allow loot Cocoons to have compat with Lootr
 		#
-		allowLootrCompat = false
-
-
+		allowLootrCompat = true
 
