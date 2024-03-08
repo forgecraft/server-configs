@@ -5,6 +5,45 @@
       "name": "ErrorMikey",
       "uniqueId": "2d583fc7-7fe8-45d0-9c35-f29451a2a2a5"
     },
+    "time": 1709850144167,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/D62iRO2XCS"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "ErrorMikey",
+      "uniqueId": "2d583fc7-7fe8-45d0-9c35-f29451a2a2a5"
+    },
+    "time": 1709847961162,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/2NvMajbhcN"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "ErrorMikey",
+      "uniqueId": "2d583fc7-7fe8-45d0-9c35-f29451a2a2a5"
+    },
+    "time": 1709847779117,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/kLZaWOxnXm"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "ErrorMikey",
+      "uniqueId": "2d583fc7-7fe8-45d0-9c35-f29451a2a2a5"
+    },
     "time": 1709752305592,
     "type": "Profiler",
     "data": {

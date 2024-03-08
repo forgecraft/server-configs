@@ -5,7 +5,7 @@ maxDynamites = 50
 #The amount of power the standard solar module will produce
 standardSolarProduction = 20
 #Disabled timed crafting
-disableTimedCrafting = true
+disableTimedCrafting = false
 #The amount of power the basic solar module will produce
 basicSolarProduction = 10
 #Max drill size
