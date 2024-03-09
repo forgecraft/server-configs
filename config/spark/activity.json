@@ -1,6 +1,18 @@
 [
   {
     "user": {
+      "type": "other",
+      "name": "Console"
+    },
+    "time": 1709933547343,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/o4xb6lJiCP"
+    }
+  },
+  {
+    "user": {
       "type": "player",
       "name": "ErrorMikey",
       "uniqueId": "2d583fc7-7fe8-45d0-9c35-f29451a2a2a5"
