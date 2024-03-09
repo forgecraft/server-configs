@@ -252,7 +252,7 @@
 		nutritionalTransferRate = 256
 		#Maximum amount of Hydrogen storable in the jetpack unit.
 		#Range: 1 ~ 9223372036854775807
-		jetpackMaxStorage = 48000
+		jetpackMaxStorage = 24000
 		#Rate at which Hydrogen can be transferred into the jetpack unit.
 		#Range: 1 ~ 9223372036854775807
 		jetpackTransferRate = 256
