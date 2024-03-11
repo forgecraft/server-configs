@@ -1,0 +1,11 @@
+{
+  "type": "actuallyadditions:mining_lens",
+  "ingredient": {
+    "tag": "forge:stone"
+  },
+  "result": {
+    "count": 1,
+    "result": "modern_industrialization:monazite_ore"
+  },
+  "weight": 100
+}

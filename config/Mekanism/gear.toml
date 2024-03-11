@@ -31,6 +31,17 @@
 		#Amount (joules) of energy the Atomic Disassembler can accept per tick.
 		chargeRate = "5000"
 
+	#Configurator Settings
+	[gear.configurator]
+		#Maximum amount (joules) of energy the Configurator can contain.
+		maxEnergy = "60000"
+		#Amount (joules) of energy the Configurator can accept per tick.
+		chargeRate = "300"
+		#Energy usage in joules of using the configurator to configure machines.
+		energyPerConfigure = "400"
+		#Energy cost in joules for each item the configurator ejects from a machine on empty mode.
+		energyPerItem = "8"
+
 	#Electric Bow Settings
 	[gear.electric_bow]
 		#Maximum amount (joules) of energy the Electric Bow can contain.
@@ -239,7 +250,7 @@
 		#Rate at which Nutritional Paste can be transferred into the nutritional injection unit.
 		#Range: > 1
 		nutritionalTransferRate = 256
-		#Maximum amount of Hydrogen storable per installed jetpack unit.
+		#Maximum amount of Hydrogen storable in the jetpack unit.
 		#Range: 1 ~ 9223372036854775807
 		jetpackMaxStorage = 48000
 		#Rate at which Hydrogen can be transferred into the jetpack unit.
