@@ -1,0 +1,11 @@
+{
+  "type": "actuallyadditions:mining_lens",
+  "ingredient": {
+    "tag": "forge:stone"
+  },
+  "result": {
+    "count": 1,
+    "result": "xycraft_world:xychorium_ore_stone_blue"
+  },
+  "weight": 300
+}
