@@ -3892,7 +3892,7 @@
       "discard_on_air_chance": 0,
       "modifiers": [
         {
-          "count": 46,
+          "count": 5,
           "type": "minecraft:count"
         },
         {
@@ -3970,6 +3970,45 @@
           },
           "state": {
             "Name": "elementsofpower:deepslate_agate_ore"
+          }
+        }
+      ]
+    },
+    {
+      "ore_size": 6,
+      "discard_on_air_chance": 0.0,
+      "modifiers": [
+        {
+          "count": 8,
+          "type": "minecraft:count"
+        },
+        {
+          "type": "minecraft:in_square"
+        },
+        {
+          "height": {
+            "min_inclusive": {
+              "absolute": 0
+            },
+            "max_inclusive": {
+              "absolute": 45
+            },
+            "type": "minecraft:trapezoid"
+          },
+          "type": "minecraft:height_range"
+        },
+        {
+          "type": "minecraft:biome"
+        }
+      ],
+      "targets": [
+        {
+          "target": {
+            "tag": "minecraft:stone_ore_replaceables",
+            "predicate_type": "minecraft:tag_match"
+          },
+          "state": {
+            "Name": "actuallyadditions:black_quartz_ore"
           }
         }
       ]
