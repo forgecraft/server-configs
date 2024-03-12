@@ -1,6 +1,32 @@
 [
   {
     "user": {
+      "type": "player",
+      "name": "ErrorMikey",
+      "uniqueId": "2d583fc7-7fe8-45d0-9c35-f29451a2a2a5"
+    },
+    "time": 1710124328159,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/wpZpec2kvO"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "ErrorMikey",
+      "uniqueId": "2d583fc7-7fe8-45d0-9c35-f29451a2a2a5"
+    },
+    "time": 1710123696188,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/HbiGMzR6GT"
+    }
+  },
+  {
+    "user": {
       "type": "other",
       "name": "Console"
     },
