@@ -53,7 +53,7 @@
 	[gear.gauge_dropper]
 		#Rate at which a gauge dropper can be filled or emptied.
 		#Range: > 1
-		transferRate = 250
+		transferRate = 256
 		#Capacity of gauge droppers.
 		#Range: > 1
 		capacity = 16000

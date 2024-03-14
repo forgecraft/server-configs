@@ -39,6 +39,8 @@
 	redstoneConfigurator = "minecraft:redstone_torch"
 	#define the item used to configure Direction in laser relays
 	relayConfigurator = "minecraft:compass"
+	#Should Bat wings drop from Bats?
+	doBatDrops = true
 
 #Machine Settings
 [machineSettings]
@@ -56,6 +58,19 @@
 	minerLensEnergy = 60000
 	#If Energy Laser Relays should have energy loss.
 	laserRelayLoss = true
+	#The cooldown between two generation cycles of the Leaf Generator, in ticks
+	#Range: > 1
+	leafGeneratorCooldown = 5
+	#The Leaf Generator's Energy Production in CF/Leaf
+	#Range: > 1
+	leafGeneratorCPPerLeaf = 300
+	#The size of the Leaf Generator's harvesting area.  Default is 7x7x7, must be an odd number.
+	#Range: > 1
+	leafGeneratorArea = 7
+	#By default, the Vertical Digger mines everything that is in the 'forge:ores' block/item tags. If there is one that it can't mine, but should be able to, put its REGISTRY NAME here. These are the actual registered Item Names, the ones you use, for example, when using the /give Command. This Config Option only applies if the miner is in Ores Only Mode.
+	"Vertical Digger Extra Whitelist" = []
+	#By default, the Vertical Digger mines everything that is in the 'forge:ores' block/item tags. If there is one that it can mine, but shouldn't be able to, put its REGISTRY NAME here. These are the actual registered Item Names, the ones you use, for example, when using the /give Command. This Config Option will apply in both modes.
+	"Vertical Digger Blacklist" = []
 
 #Worldgen Settings
 [worldgenSettings]
