@@ -48,7 +48,7 @@
 	#Energy per operation tick (Joules).
 	formulaicAssemblicator = "100"
 	#Energy per operation tick (Joules).
-	modificationStation = "100"
+	modificationStation = "400"
 	#Energy per operation tick (Joules).
 	isotopicCentrifuge = "200"
 	#Energy per operation tick (Joules).

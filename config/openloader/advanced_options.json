@@ -1,6 +1,6 @@
 {
   "resourcePacks": {
-    "enabled": true,
+    "enabled": false,
     "additionalFolders": []
   },
   "dataPacks": {

@@ -1,0 +1,3 @@
+#The permission handler to use as a parent for the Prometheus permission handler.
+parentPermissionHandler = "neoforge:default_handler"
+

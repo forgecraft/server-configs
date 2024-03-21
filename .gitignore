@@ -1,2 +1,5 @@
 .tmp
 secrets
+config/concord-common.toml
+config/spark/tmp/
+config/spark/activity.json

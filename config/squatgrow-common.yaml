@@ -1,7 +1,7 @@
 !!dev.wuffs.squatgrow.config.SquatGrowConfig
 ae2Multiplier: 4
 allowAdventureTwerking: true
-chance: 0.5
+chance: 0.3
 debug: false
 enableAE2Accelerator: true
 enableDirtToGrass: true
@@ -9,8 +9,15 @@ enableMysticalCrops: true
 hoeTakesDamage: false
 ignoreList: ['minecraft:grass_block', 'minecraft:grass', 'minecraft:tall_grass', 'minecraft:netherrack',
   'minecraft:warped_nylium', 'minecraft:crimson_nylium']
-randomTickMultiplier: 4
+randomTickMultiplier: 3
 range: 3
 requireHoe: false
+requirements:
+  durabilityDamage: 1
+  enabled: true
+  equipmentRequirement: {}
+  heldItemRequirement: ['#minecraft:hoes']
+  requiredEnchantment: ''
+  requiredItemTakesDamage: true
 sugarcaneMultiplier: 4
 useWhitelist: false

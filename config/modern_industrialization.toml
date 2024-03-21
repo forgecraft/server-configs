@@ -1,6 +1,6 @@
 enableNoEmiMessage = true
-spawnWithGuideBook = true
-respawnWithGuideBook = true
+spawnWithGuideBook = false
+respawnWithGuideBook = false
 disableFuelTooltips = false
 disableItemTagTooltips = false
 newVersionMessage = true
@@ -16,3 +16,4 @@ datagenOnStartup = false
 loadRuntimeGeneratedResources = true
 removeIndustrialistTrades = false
 maxDistillationTowerHeight = 9
+enableInterMachineConnectedTextures = false
