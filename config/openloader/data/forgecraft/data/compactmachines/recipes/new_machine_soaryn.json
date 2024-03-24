@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "item": "compactmachines:enlarging_module"
+    },
+    "P": {
+      "item": "minecraft:nether_star"
+    },
+    "S": {
+      "item": "compactmachines:shrinking_module"
+    },
+    "W": {
+      "item": "compactmachines:wall"
+    }
+  },
+  "pattern": [
+    "WWW",
+    "EPS",
+    "WWW"
+  ],
+  "result": {
+    "item": "compactmachines:new_machine",
+    "nbt": "{machine_color:8467103,template_id:\"compactmachines:soaryn\"}"
+  }
+}
