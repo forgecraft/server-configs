@@ -16,4 +16,22 @@
 	#The multiplier for the burn speed, making the generator run faster. Coal is 1600 ticks to burn, if you set this to 10, it will burn in 160 ticks
 	#Range: 1 ~ 1000
 	pocket_generator_burn_speed_multiplier = 10
+	#The maximum amount of Forge Energy the generator can hold in its buffer
+	#Range: > 1
+	pocket_generator_max_fe = 50000
+	#The FE per Tick that the generator charges other items at
+	#Range: > 1
+	pocket_generator_fe_per_tick = 150
+	#The amount of Forge Energy created per burn tick of fuel. Coal has 1600 burn ticks. Sticks have 100 burn ticks.
+	#Range: 1.0 ~ 2.147483647E9
+	pocket_generator_t2_fe_per_fuel_tick = 12.5
+	#The multiplier for the burn speed, making the generator run faster. Coal is 1600 ticks to burn, if you set this to 10, it will burn in 160 ticks
+	#Range: 1 ~ 1000
+	pocket_generator_t2_burn_speed_multiplier = 10
+	#The maximum amount of Forge Energy the generator can hold in its buffer
+	#Range: > 1
+	pocket_generator_t2_max_fe = 500000
+	#The FE per Tick that the generator charges other items at
+	#Range: > 1
+	pocket_generator_t2_fe_per_tick = 1000
 

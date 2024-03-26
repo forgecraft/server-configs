@@ -91,25 +91,21 @@ multiplayerFightAdjuster = "MORE_LOOT_AND_HEALTH"
 
 #Settings for all things related to the magic trees.
 ["Magic Trees"]
-	#If true, prevents the Timewood Core from functioning.
-	disableTimeCore = false
 	#Defines the radius at which the Timewood Core works. Can be a number anywhere between 1 and 128.
-	#Range: 1 ~ 128
+	#Set to 0 to prevent the Timewood Core from functioning.
+	#Range: 0 ~ 128
 	timeCoreRange = 16
-	#If true, prevents the Transformation Core from functioning.
-	disableTransformationCore = false
 	#Defines the radius at which the Transformation Core works. Can be a number anywhere between 1 and 128.
-	#Range: 1 ~ 128
+	#Set to 0 to prevent the Transformation Core from functioning.
+	#Range: 0 ~ 128
 	transformationCoreRange = 16
-	#If true, prevents the Minewood Core from functioning.
-	disableMiningCore = false
 	#Defines the radius at which the Minewood Core works. Can be a number anywhere between 1 and 128.
-	#Range: 1 ~ 128
+	#Set to 0 to prevent the Minewood Core from functioning.
+	#Range: 0 ~ 128
 	miningCoreRange = 16
-	#If true, prevents the Sortingwood Core from functioning.
-	disableSortingCore = false
 	#Defines the radius at which the Sortingwood Core works. Can be a number anywhere between 1 and 128.
-	#Range: 1 ~ 128
+	#Set to 0 to prevent the Sortingwood Core from functioning.
+	#Range: 0 ~ 128
 	sortingCoreRange = 16
 
 #We recommend downloading the Shield Parry mod for parrying, but these controls remain for without.

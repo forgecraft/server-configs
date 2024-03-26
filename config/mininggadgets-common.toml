@@ -61,4 +61,7 @@
 		#Capacity Boost from Battery 3 Upgrade
 		#Range: > 0
 		battery3 = 10000000
+		#Cost per block for Efficiency 6 upgrade
+		#Range: > 0
+		upgradeEfficiency6 = 30
 
